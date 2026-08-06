@@ -19,3 +19,14 @@ Telco Customer Churn Dataset
 - Which services are associated with higher churn?
 - Which payment methods have higher churn?
 - What actions can management take to improve retention?
+
+## Data Analysis Process
+
+### The project followed a structured data analytics workflow:
+
+1.Business Understanding – Defined the business problem and key objectives.
+2.Data Understanding – Examined the dataset structure, data types, missing values, duplicates, categorical variables, and numerical variables.
+3.Data Cleaning – Used Power Query to identify and resolve data-quality issues, including incorrect data types and missing TotalCharges values.
+4.Exploratory Data Analysis – Used PivotTables and calculated churn rates across different customer segments.
+5.Data Visualization – Created bar charts, pie charts, histograms, a box plot, and a correlation heatmap to communicate key findings.
+6.Business Insights & Recommendations – Translated analytical findings into practical customer-retention strategies.
