@@ -12,10 +12,10 @@ Telco Customer Churn Dataset
 
 ### The analysis focused on:
 
-What does the customer base look like?
-Which customer segments have the highest churn?
-Does contract type influence customer retention?
-Does tenure affect customer loyalty?
-Which services are associated with higher churn?
-Which payment methods have higher churn?
-What actions can management take to improve retention?
+- What does the customer base look like?
+- Which customer segments have the highest churn?
+- Does contract type influence customer retention?
+- Does tenure affect customer loyalty?
+- Which services are associated with higher churn?
+- Which payment methods have higher churn?
+- What actions can management take to improve retention?
