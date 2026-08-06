@@ -1,6 +1,10 @@
 # Data-Analysis-Telco-Customer-Churn
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
 
-Dataset
+## Project Overview
+
+This project analyzes customer churn for ABC Communications Ltd to identify key factors associated with customer attrition and provide data-driven recommendations to improve customer retention.
+
+## Dataset Used
 Telco Customer Churn Dataset
 <a href= "https://www.kaggle.com/datasets/blastchar/telco-customer-churn"> 
+
