@@ -36,7 +36,7 @@ Telco Customer Churn Dataset
 <img width="1851" height="840" alt="Screenshot 2026-08-06 104022" src="https://github.com/user-attachments/assets/2c73ac6c-62d7-4853-a039-6f8ae0773caa" />
 
 
-## Key Findings
+## Project Insights
 
 ### The analysis identified several high-risk customer groups:
 
